@@ -1,6 +1,6 @@
 # bj_linux_notes
 
-##`zcat`
+## `zcat`
 
 allows you to read a .gz without extracting
 
