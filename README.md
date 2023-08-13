@@ -1,6 +1,12 @@
 # bj_linux_notes
 
-## `zcat`
+
+
+## vi / vim 
+
+## placeholder
+
+### `zcat`
 
 allows you to read a .gz without extracting
 
